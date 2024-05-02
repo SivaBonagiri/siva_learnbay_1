@@ -1,3 +1,6 @@
 Hi I am trying to login to Git .
 
 Adding some content
+
+
+Now i am making some modifications for this file 
